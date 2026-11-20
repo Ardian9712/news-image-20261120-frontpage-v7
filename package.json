@@ -1,0 +1,14 @@
+{
+  "name": "news-image-20261120-frontpage-v7",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An offline newspaper front page image entry for 20 November 2026.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
